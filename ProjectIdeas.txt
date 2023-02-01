@@ -1,0 +1,5 @@
+Design a flower catalogue app for a trendy florist
+Design a tour check-in app for an art gallery
+Design a virtual tour app for an art gallery
+Design a game preview app for an arcade
+Design a special event check-in app for an arcade
